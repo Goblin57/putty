@@ -1,3 +1,4 @@
+// Test with action
 /*
  * config.c - the platform-independent parts of the PuTTY
  * configuration box.

@@ -1,3 +1,4 @@
+// Test with action
 /*
  * Platform-independent routines shared between all PuTTY programs.
  */
